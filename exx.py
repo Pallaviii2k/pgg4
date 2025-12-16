@@ -1,1 +1,2 @@
-printf("hell world ");
+print("hell world ");
+print("hey pallavi");
